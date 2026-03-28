@@ -26,3 +26,4 @@
 =======
 ]{"timestamp": "2026-03-28T15:00:50.812418+00:00", "action_type": "whatsapp_draft_created", "actor": "cloud", "target": "APPROVE_REPLY_WHATSAPP_2026-03-28_20-00.md", "parameters": {"recipient": "Mine(You)", "contact": "Mine(You)"}, "approval_status": "auto", "approved_by": "system", "result": "success"}
 >>>>>>> 6165fe7a6ad072e531a3123bf62d0884896b98ee
+{"timestamp": "2026-03-28T15:35:59.244413+00:00", "action_type": "stale_recovery", "actor": "reaper", "target": "test_invoice.md", "parameters": {"recovered_from": "In_Progress/cloud", "stale_recovery_count": 1}, "approval_status": "auto", "approved_by": "system", "result": "returned_to_needs_action"}
