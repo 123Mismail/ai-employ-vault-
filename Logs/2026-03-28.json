@@ -13,4 +13,4 @@
         "approved_by": "system",
         "result": "success"
     }
-]
+]{"timestamp": "2026-03-28T15:00:50.812418+00:00", "action_type": "whatsapp_draft_created", "actor": "cloud", "target": "APPROVE_REPLY_WHATSAPP_2026-03-28_20-00.md", "parameters": {"recipient": "Mine(You)", "contact": "Mine(You)"}, "approval_status": "auto", "approved_by": "system", "result": "success"}
