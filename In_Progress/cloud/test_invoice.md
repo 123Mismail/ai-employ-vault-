@@ -1,7 +1,8 @@
 ---
-claimed_at: '2026-03-28T15:03:31.304644+00:00'
-claimed_by: cloud
-status: in_progress
+claimed_at: ''
+claimed_by: ''
+stale_recovery_count: 1
+status: stale_recovered
 ---
 ---
   type: odoo_invoice
