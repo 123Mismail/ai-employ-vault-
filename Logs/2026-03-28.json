@@ -1,33 +1,14 @@
 [
     {
-        "timestamp": "2026-03-28T08:08:54.682550",
+        "timestamp": "2026-03-28T08:11:40.544353",
         "action_type": "email_send",
         "actor": "ai_employee",
-        "target": "APPROVE_REPLY_EMAIL_19d325ce_20260328025714.md",
+        "target": "APPROVE_REPLY_EMAIL_19d32601b3643fcf_20260328080213.md",
         "parameters": {
-            "file": "APPROVE_REPLY_EMAIL_19d325ce_20260328025714.md"
+            "file": "APPROVE_REPLY_EMAIL_19d32601b3643fcf_20260328080213.md"
         },
         "approval_status": "approved",
         "approved_by": "human",
         "result": "success"
     }
-]{"timestamp": "2026-03-28T03:09:03.962983+00:00", "action_type": "whatsapp_send_failed", "actor": "local", "target": "APPROVE_REPLY_WHATSAPP_OWNER_20260328073527.md", "parameters": {"error": "approval missing 'recipient' or 'message_body'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
-{"timestamp": "2026-03-28T03:09:07.058796+00:00", "action_type": "whatsapp_send_failed", "actor": "local", "target": "APPROVE_REPLY_WHATSAPP_OWNER_20260328075427.md", "parameters": {"error": "approval missing 'recipient' or 'message_body'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
-{"timestamp": "2026-03-28T03:09:20.392239+00:00", "action_type": "whatsapp_send_failed", "actor": "local", "target": "APPROVE_REPLY_WHATSAPP_OWNER_20260328073527.md", "parameters": {"error": "approval missing 'recipient' or 'message_body'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
-{"timestamp": "2026-03-28T03:09:23.668403+00:00", "action_type": "whatsapp_send_failed", "actor": "local", "target": "APPROVE_REPLY_WHATSAPP_OWNER_20260328075427.md", "parameters": {"error": "approval missing 'recipient' or 'message_body'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
-{"timestamp": "2026-03-28T03:09:36.936377+00:00", "action_type": "whatsapp_send_failed", "actor": "local", "target": "APPROVE_REPLY_WHATSAPP_OWNER_20260328073527.md", "parameters": {"error": "approval missing 'recipient' or 'message_body'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
-{"timestamp": "2026-03-28T03:09:40.467343+00:00", "action_type": "whatsapp_send_failed", "actor": "local", "target": "APPROVE_REPLY_WHATSAPP_OWNER_20260328075427.md", "parameters": {"error": "approval missing 'recipient' or 'message_body'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
-{"timestamp": "2026-03-28T03:09:53.163106+00:00", "action_type": "whatsapp_send_failed", "actor": "local", "target": "APPROVE_REPLY_WHATSAPP_OWNER_20260328073527.md", "parameters": {"error": "approval missing 'recipient' or 'message_body'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
-{"timestamp": "2026-03-28T03:09:56.779312+00:00", "action_type": "whatsapp_send_failed", "actor": "local", "target": "APPROVE_REPLY_WHATSAPP_OWNER_20260328075427.md", "parameters": {"error": "approval missing 'recipient' or 'message_body'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
-{"timestamp": "2026-03-28T03:10:10.468837+00:00", "action_type": "whatsapp_send_failed", "actor": "local", "target": "APPROVE_REPLY_WHATSAPP_OWNER_20260328073527.md", "parameters": {"error": "approval missing 'recipient' or 'message_body'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
-{"timestamp": "2026-03-28T03:10:13.840669+00:00", "action_type": "whatsapp_send_failed", "actor": "local", "target": "APPROVE_REPLY_WHATSAPP_OWNER_20260328075427.md", "parameters": {"error": "approval missing 'recipient' or 'message_body'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
-{"timestamp": "2026-03-28T03:10:27.061846+00:00", "action_type": "whatsapp_send_failed", "actor": "local", "target": "APPROVE_REPLY_WHATSAPP_OWNER_20260328073527.md", "parameters": {"error": "approval missing 'recipient' or 'message_body'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
-{"timestamp": "2026-03-28T03:10:30.805926+00:00", "action_type": "whatsapp_send_failed", "actor": "local", "target": "APPROVE_REPLY_WHATSAPP_OWNER_20260328075427.md", "parameters": {"error": "approval missing 'recipient' or 'message_body'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
-{"timestamp": "2026-03-28T03:10:43.716902+00:00", "action_type": "whatsapp_send_failed", "actor": "local", "target": "APPROVE_REPLY_WHATSAPP_OWNER_20260328073527.md", "parameters": {"error": "approval missing 'recipient' or 'message_body'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
-{"timestamp": "2026-03-28T03:10:47.274038+00:00", "action_type": "whatsapp_send_failed", "actor": "local", "target": "APPROVE_REPLY_WHATSAPP_OWNER_20260328075427.md", "parameters": {"error": "approval missing 'recipient' or 'message_body'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
-{"timestamp": "2026-03-28T03:11:00.492803+00:00", "action_type": "whatsapp_send_failed", "actor": "local", "target": "APPROVE_REPLY_WHATSAPP_OWNER_20260328073527.md", "parameters": {"error": "approval missing 'recipient' or 'message_body'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
-{"timestamp": "2026-03-28T03:11:03.636813+00:00", "action_type": "whatsapp_send_failed", "actor": "local", "target": "APPROVE_REPLY_WHATSAPP_OWNER_20260328075427.md", "parameters": {"error": "approval missing 'recipient' or 'message_body'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
-{"timestamp": "2026-03-28T03:11:16.761708+00:00", "action_type": "whatsapp_send_failed", "actor": "local", "target": "APPROVE_REPLY_WHATSAPP_OWNER_20260328073527.md", "parameters": {"error": "approval missing 'recipient' or 'message_body'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
-{"timestamp": "2026-03-28T03:11:19.890709+00:00", "action_type": "whatsapp_send_failed", "actor": "local", "target": "APPROVE_REPLY_WHATSAPP_OWNER_20260328075427.md", "parameters": {"error": "approval missing 'recipient' or 'message_body'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
-{"timestamp": "2026-03-28T03:11:32.988644+00:00", "action_type": "whatsapp_send_failed", "actor": "local", "target": "APPROVE_REPLY_WHATSAPP_OWNER_20260328073527.md", "parameters": {"error": "approval missing 'recipient' or 'message_body'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
-{"timestamp": "2026-03-28T03:11:36.205861+00:00", "action_type": "whatsapp_send_failed", "actor": "local", "target": "APPROVE_REPLY_WHATSAPP_OWNER_20260328075427.md", "parameters": {"error": "approval missing 'recipient' or 'message_body'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+]
