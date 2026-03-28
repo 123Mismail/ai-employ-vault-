@@ -1,0 +1,6 @@
+# Health files — written every 60s, no need to sync via git
+Logs/health_*.json
+
+# Session files
+.DS_Store
+desktop.ini
