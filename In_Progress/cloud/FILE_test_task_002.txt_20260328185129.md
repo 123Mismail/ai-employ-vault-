@@ -1,9 +1,17 @@
 ---
+<<<<<<< HEAD
+claimed_at: '2026-03-28T15:01:21.664387+00:00'
+claimed_by: cloud
+source: test_task_002.txt
+stale_recovery_count: 2
+status: in_progress
+=======
 claimed_at: ''
 claimed_by: ''
 source: test_task_002.txt
 stale_recovery_count: 2
 status: stale_recovered
+>>>>>>> 6165fe7a6ad072e531a3123bf62d0884896b98ee
 timestamp: 2026-03-28 18:51:29
 type: file_drop
 ---
