@@ -183,10 +183,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "19f52d0c2c5f0bc1",
+  "active": "bd02ae7dae10ef28",
   "lastOpenFiles": [
-    "Approved/APPROVE_POST_LINKEDIN_20260328042048.md",
     "In_Progress/local/APPROVE_POST_LINKEDIN_20260328042048.md",
+    "Approved/APPROVE_POST_LINKEDIN_20260328042048.md",
+    "Rejected/APPROVE_POST_LINKEDIN_20260328042048.md",
     "Pending_Approval/APPROVE_REPLY_WHATSAPP_2026-03-28_09-00.md",
     "Pending_Approval/APPROVE_REPLY_EMAIL_19d32769_20260328032219.md",
     "Rejected/APPROVE_REPLY_WHATSAPP_OWNER_20260328075427.md",
@@ -211,7 +212,6 @@
     "Plans/WHATSAPP_OWNER_20260328083228.md",
     "Needs_Action/WHATSAPP_OWNER_20260328083228.md",
     "Done/EMAIL_19d327aad5ca1a6b_20260328082718.md",
-    "Done/APPROVE_REPLY_EMAIL_19d327aad5ca1a6b_20260328082718.md",
     "Logs/2026-03-28.json",
     "WhatsApp_Outbox/SEND_20260327074347123689.json",
     "Logs/2026-03-27.json",
