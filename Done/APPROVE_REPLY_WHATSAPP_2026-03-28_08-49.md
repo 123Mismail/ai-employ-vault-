@@ -1,13 +1,13 @@
 ---
-approved_at: ''
-approved_by: ''
+approved_at: '2026-03-28T03:50:12.957289+00:00'
+approved_by: human
 claimed_by: cloud
 created_at: 2026-03-28 08:49
 expires: 2026-03-29 08:49
 message_body: Hi Muhammad! Great to hear from you. I’ll check out the message on WhatsApp
   Web shortly.
 recipient: Mine(You)
-status: pending_approval
+status: approved
 type: whatsapp_reply
 ---
 
