@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Approved/APPROVE_REPLY_WHATSAPP_OWNER_20260328073527.md",
+                "file": "Pending_Approval/APPROVE_REPLY_EMAIL_19d32601b3643fcf_20260328080213.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "APPROVE_REPLY_WHATSAPP_OWNER_20260328073527"
+              "title": "APPROVE_REPLY_EMAIL_19d32601b3643fcf_20260328080213"
             }
           }
         ]
@@ -183,8 +183,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "bd02ae7dae10ef28",
+  "active": "19f52d0c2c5f0bc1",
   "lastOpenFiles": [
+    "Approved/APPROVE_REPLY_WHATSAPP_OWNER_20260328073527.md",
     "Done/FILE_test_task_003.txt_20260328073205.md",
     "Done/PLAN_FILE_test_task_003.txt_20260328073205.md",
     "Plans/PLAN_FILE_test_task_003.txt_20260328073205.md",
@@ -210,7 +211,6 @@
     "Approved/APPROVE_REPLY_WHATSAPP_OWNER_20260328075427.md",
     "Plans/WHATSAPP_OWNER_20260328075427.md",
     "Needs_Action/WHATSAPP_OWNER_20260328075427.md",
-    "Done/EMAIL_19d3257ed8979368_20260328075210.md",
     "Logs/2026-03-28.json",
     "WhatsApp_Outbox/SEND_20260327074347123689.json",
     "Logs/2026-03-27.json",
