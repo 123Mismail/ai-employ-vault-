@@ -42,4 +42,8 @@
 >>>>>>> 469d15b4bc931a50484ae7942f1ec7393f8fa45d
 =======
 {"timestamp": "2026-03-28T04:42:30.598945+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_LINKEDIN_20260328042048.md", "parameters": {"error": "[WinError 183] Cannot create a file when that file already exists: 'AI_Employee_Vault\\\\In_Progress\\\\local\\\\APPROVE_POST_LINKEDIN_20260328042048.md' -> 'AI_Employee_Vault\\\\Rejected\\\\APPROVE_POST_LINKEDIN_20260328042048.md'"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+<<<<<<< HEAD
 >>>>>>> 4ac7e00d77d0f8b85279c7173082d7882fc2c490
+=======
+{"timestamp": "2026-03-28T04:45:42.556796+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_LINKEDIN_TEST_20260328094428.md", "parameters": {"target": "linkedin"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+>>>>>>> c16d1e3704e52d18d20d500296bca536ade7cf32
