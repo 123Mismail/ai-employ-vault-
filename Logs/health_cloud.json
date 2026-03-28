@@ -1,5 +1,6 @@
 {
   "agent": "cloud",
+<<<<<<< HEAD
   "timestamp": "2026-03-28T15:00:48.700625+00:00",
   "pid": 1128,
   "status": "running",
@@ -8,4 +9,14 @@
   "last_sync_push": "2026-03-28T14:00:48.295862+00:00",
   "last_sync_pull": "2026-03-28T15:00:27.506465+00:00",
   "vault_path": "AI_Employee_Vault"
+=======
+  "timestamp": "2026-03-28T15:00:51.102508+00:00",
+  "pid": 243495,
+  "status": "running",
+  "last_task": "",
+  "queue_depth": 1,
+  "last_sync_push": "2026-03-28T14:58:21.099272+00:00",
+  "last_sync_pull": "2026-03-28T15:00:25.423438+00:00",
+  "vault_path": "/home/opc/ai-employ/AI_Employee_Vault"
+>>>>>>> 5a8377214c4ae6debb368892127100aa66ee117e
 }
