@@ -50,4 +50,8 @@
 >>>>>>> c16d1e3704e52d18d20d500296bca536ade7cf32
 =======
 {"timestamp": "2026-03-28T04:46:52.676700+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_LINKEDIN_TEST2_20260328094640.md", "parameters": {"target": "linkedin"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+<<<<<<< HEAD
 >>>>>>> 93ffba4cfd9e6696f7c71eae1b9effd75cecbfba
+=======
+{"timestamp": "2026-03-28T04:49:39.190713+00:00", "action_type": "social_post_failed", "actor": "local", "target": "APPROVE_POST_LINKEDIN_TEST3_20260328094848.md", "parameters": {"target": "linkedin"}, "approval_status": "auto", "approved_by": "system", "result": "error"}
+>>>>>>> 521a3c007dbc69c32b22097175faf30c4711c018
