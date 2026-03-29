@@ -183,10 +183,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "bd02ae7dae10ef28",
+  "active": "19f52d0c2c5f0bc1",
   "lastOpenFiles": [
+    "Approved/APPROVE_POST_INVOICE_test_invoice_20260329035249.md",
+    "Done/APPROVE_POST_INVOICE_test_invoice_20260329035249.md",
+    "Pending_Approval/APPROVE_REPLY_EMAIL_19d34a00_20260328135144.md",
     "Plans/test_invoice.md",
-    "Pending_Approval/APPROVE_POST_INVOICE_test_invoice_20260329035249.md",
     "Logs/2026-03-29.json",
     "Plans/WHATSAPP_OWNER_20260329080005.md",
     "Pending_Approval/APPROVE_REPLY_WHATSAPP_2026-03-29_08-00.md",
@@ -210,8 +212,6 @@
     "Needs_Action/FILE_test_task_002.txt_20260328185129.md",
     "Plans/WHATSAPP_OWNER_20260328190041.md",
     "Pending_Approval/APPROVE_REPLY_WHATSAPP_2026-03-28_19-00.md",
-    "In_Progress/cloud/WHATSAPP_OWNER_20260328190041.md",
-    "Needs_Action/WHATSAPP_OWNER_20260328190041.md",
     "WhatsApp_Outbox/SEND_20260328085012953247.json",
     "Logs/2026-03-28.json",
     "WhatsApp_Outbox/SEND_20260327074347123689.json",
