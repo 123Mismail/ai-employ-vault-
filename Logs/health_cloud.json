@@ -1,22 +1,11 @@
 {
   "agent": "cloud",
-<<<<<<< HEAD
-  "timestamp": "2026-03-29T04:51:05.087934+00:00",
+  "timestamp": "2026-03-29T04:51:33.101310+00:00",
   "pid": 1128,
   "status": "running",
-  "last_task": "",
-  "queue_depth": 6,
-  "last_sync_push": "2026-03-29T04:00:34.618478+00:00",
-  "last_sync_pull": "2026-03-29T04:48:25.682918+00:00",
-  "vault_path": "AI_Employee_Vault"
-=======
-  "timestamp": "2026-03-29T04:50:58.773679+00:00",
-  "pid": 308636,
-  "status": "running",
-  "last_task": "EMAIL_19d37d7f8f12bdce_20260329045014.md",
+  "last_task": "EMAIL_19c8f08f26638a74_20260329045014.md",
   "queue_depth": 0,
-  "last_sync_push": "2026-03-29T04:50:58.773566+00:00",
-  "last_sync_pull": "2026-03-29T04:50:14.090635+00:00",
-  "vault_path": "/home/opc/ai-employ/AI_Employee_Vault"
->>>>>>> a6f8ec3660a6375237e53782adcf4c2697bd3553
+  "last_sync_push": "2026-03-29T04:00:34.618478+00:00",
+  "last_sync_pull": "2026-03-29T04:51:26.821015+00:00",
+  "vault_path": "AI_Employee_Vault"
 }
