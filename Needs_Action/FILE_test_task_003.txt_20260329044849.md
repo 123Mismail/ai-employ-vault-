@@ -1,9 +1,9 @@
 ---
-claimed_at: '2026-03-29T05:55:41.258127+00:00'
-claimed_by: cloud
+claimed_at: ''
+claimed_by: ''
 source: test_task_003.txt
-stale_recovery_count: 2
-status: in_progress
+stale_recovery_count: 3
+status: stale_recovered
 timestamp: 2026-03-29 04:48:49
 type: file_drop
 ---
