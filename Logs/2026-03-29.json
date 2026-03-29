@@ -1,26 +1,16 @@
 [
     {
-        "timestamp": "2026-03-29T09:56:26.680718",
-        "action_type": "odoo_invoice",
+        "timestamp": "2026-03-29T10:00:09.388804",
+        "action_type": "claim_task",
         "actor": "ai_employee",
-        "target": "odoo",
+        "target": "WHATSAPP_OWNER_20260329100006.md",
         "parameters": {
-            "file": "APPROVE_POST_INVOICE_INV-20260329045016_20260329045059.md"
+            "task": "WHATSAPP_OWNER_20260329100006.md",
+            "is_email": false,
+            "is_whatsapp": true
         },
-        "approval_status": "approved",
-        "approved_by": "human",
-        "result": "success"
-    },
-    {
-        "timestamp": "2026-03-29T09:57:40.521414",
-        "action_type": "odoo_invoice",
-        "actor": "ai_employee",
-        "target": "odoo",
-        "parameters": {
-            "file": "APPROVE_POST_INVOICE_INV-20260329045058_20260329045130.md"
-        },
-        "approval_status": "approved",
-        "approved_by": "human",
+        "approval_status": "auto",
+        "approved_by": "system",
         "result": "success"
     }
 ]
