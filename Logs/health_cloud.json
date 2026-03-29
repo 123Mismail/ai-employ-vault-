@@ -1,10 +1,10 @@
 {
   "agent": "cloud",
-  "timestamp": "2026-03-29T03:41:06.002720+00:00",
+  "timestamp": "2026-03-29T03:41:06.022516+00:00",
   "pid": 304501,
   "status": "running",
   "last_task": "",
-  "queue_depth": 0,
+  "queue_depth": 1,
   "last_sync_push": "",
   "last_sync_pull": "2026-03-29T03:40:06.000815+00:00",
   "vault_path": "/home/opc/ai-employ/AI_Employee_Vault"
