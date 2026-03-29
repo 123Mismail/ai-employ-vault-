@@ -11,14 +11,10 @@
             "id": "19f52d0c2c5f0bc1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pending_Approval/APPROVE_REPLY_WHATSAPP_OWNER_20260329100006.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "APPROVE_REPLY_WHATSAPP_OWNER_20260329100006"
+              "title": "New tab"
             }
           }
         ]
@@ -183,7 +179,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "19f52d0c2c5f0bc1",
+  "active": "bd02ae7dae10ef28",
   "lastOpenFiles": [
     "Pending_Approval/APPROVE_REPLY_WHATSAPP_OWNER_20260329100006.md",
     "Plans/WHATSAPP_OWNER_20260329100006.md",
