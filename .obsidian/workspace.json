@@ -11,10 +11,14 @@
             "id": "19f52d0c2c5f0bc1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Rejected/APPROVE_REPLY_EMAIL_19d37db33891e5b1_20260329093447.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "APPROVE_REPLY_EMAIL_19d37db33891e5b1_20260329093447"
             }
           }
         ]
@@ -179,11 +183,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "bd02ae7dae10ef28",
+  "active": "19f52d0c2c5f0bc1",
   "lastOpenFiles": [
-    "Plans/EMAIL_19d37f6e74194974_20260329050326.md",
-    "Pending_Approval/APPROVE_REPLY_EMAIL_19d37f6e_20260329050336.md",
+    "Approved/APPROVE_REPLY_EMAIL_19d37f6e_20260329050336.md",
+    "Done/APPROVE_REPLY_EMAIL_19d37f6e_20260329050336.md",
     "Pending_Approval/APPROVE_REPLY_WHATSAPP_OWNER_20260329100006.md",
+    "Plans/EMAIL_19d37f6e74194974_20260329050326.md",
     "Plans/WHATSAPP_OWNER_20260329100006.md",
     "Needs_Action/WHATSAPP_OWNER_20260329100006.md",
     "Pending_Approval/APPROVE_REPLY_EMAIL_19c8f08f_20260329045049.md",
@@ -206,7 +211,6 @@
     "Done/PLAN_FILE_fully autonomus.md_20260329044843.md",
     "Done/FILE_autonomous_test.txt_20260329044842.md",
     "Done/PLAN_FILE_autonomous_test.txt_20260329044842.md",
-    "Plans/INVOICE_REQUEST_20260329045058.md",
     "Logs/2026-03-29.json",
     "WhatsApp_Outbox/SEND_20260328085012953247.json",
     "Logs/2026-03-28.json",
