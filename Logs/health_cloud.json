@@ -1,11 +1,11 @@
 {
   "agent": "cloud",
-  "timestamp": "2026-03-29T05:55:40.484289+00:00",
+  "timestamp": "2026-03-29T05:55:41.257609+00:00",
   "pid": 308636,
-  "status": "running",
-  "last_task": "",
-  "queue_depth": 2,
-  "last_sync_push": "2026-03-29T05:20:40.446667+00:00",
-  "last_sync_pull": "2026-03-29T05:54:40.846903+00:00",
+  "status": "degraded",
+  "last_task": "FILE_.gitkeep_20260329044841.md",
+  "queue_depth": 0,
+  "last_sync_push": "2026-03-29T05:55:41.257498+00:00",
+  "last_sync_pull": "2026-03-29T05:55:41.094922+00:00",
   "vault_path": "/home/opc/ai-employ/AI_Employee_Vault"
 }
