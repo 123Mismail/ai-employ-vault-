@@ -1,134 +1,14 @@
 [
     {
-<<<<<<< HEAD
-        "timestamp": "2026-03-29T09:34:52.736093",
-        "action_type": "claim_task",
+        "timestamp": "2026-03-29T09:56:26.680718",
+        "action_type": "odoo_invoice",
         "actor": "ai_employee",
-        "target": "EMAIL_19d37db33891e5b1_20260329093447.md",
+        "target": "odoo",
         "parameters": {
-            "task": "EMAIL_19d37db33891e5b1_20260329093447.md",
-            "is_email": true,
-=======
-        "timestamp": "2026-03-29T04:48:43.823305",
-        "action_type": "claim_task",
-        "actor": "ai_employee",
-        "target": "FILE_autonomous_test.txt_20260329044842.md",
-        "parameters": {
-            "task": "FILE_autonomous_test.txt_20260329044842.md",
-            "is_email": false,
->>>>>>> c4b9f548e2ba32d9f2d04bcc2348ddd1aaf515b1
-            "is_whatsapp": false
+            "file": "APPROVE_POST_INVOICE_INV-20260329045016_20260329045059.md"
         },
-        "approval_status": "auto",
-        "approved_by": "system",
-        "result": "success"
-    },
-    {
-<<<<<<< HEAD
-        "timestamp": "2026-03-29T09:46:41.528333",
-        "action_type": "claim_task",
-        "actor": "ai_employee",
-        "target": "APPROVE_REPLY_EMAIL_19d37db3_20260329043249.md",
-        "parameters": {
-            "task": "APPROVE_REPLY_EMAIL_19d37db3_20260329043249.md",
-            "is_email": true,
-=======
-        "timestamp": "2026-03-29T04:48:44.825162",
-        "action_type": "claim_task",
-        "actor": "ai_employee",
-        "target": "FILE_fully autonomus.md_20260329044843.md",
-        "parameters": {
-            "task": "FILE_fully autonomus.md_20260329044843.md",
-            "is_email": false,
-            "is_whatsapp": false
-        },
-        "approval_status": "auto",
-        "approved_by": "system",
-        "result": "success"
-    },
-    {
-        "timestamp": "2026-03-29T04:48:45.826906",
-        "action_type": "claim_task",
-        "actor": "ai_employee",
-        "target": "FILE_last testing done.md_20260329044844.md",
-        "parameters": {
-            "task": "FILE_last testing done.md_20260329044844.md",
-            "is_email": false,
-            "is_whatsapp": false
-        },
-        "approval_status": "auto",
-        "approved_by": "system",
-        "result": "success"
-    },
-    {
-        "timestamp": "2026-03-29T04:48:46.828703",
-        "action_type": "claim_task",
-        "actor": "ai_employee",
-        "target": "FILE_modular_test.txt_20260329044845.md",
-        "parameters": {
-            "task": "FILE_modular_test.txt_20260329044845.md",
-            "is_email": false,
-            "is_whatsapp": false
-        },
-        "approval_status": "auto",
-        "approved_by": "system",
-        "result": "success"
-    },
-    {
-        "timestamp": "2026-03-29T04:48:47.830295",
-        "action_type": "claim_task",
-        "actor": "ai_employee",
-        "target": "FILE_second last tasks.md_20260329044846.md",
-        "parameters": {
-            "task": "FILE_second last tasks.md_20260329044846.md",
-            "is_email": false,
-            "is_whatsapp": false
-        },
-        "approval_status": "auto",
-        "approved_by": "system",
-        "result": "success"
-    },
-    {
-        "timestamp": "2026-03-29T04:48:48.832127",
-        "action_type": "claim_task",
-        "actor": "ai_employee",
-        "target": "FILE_test_invoice.txt_20260329044847.md",
-        "parameters": {
-            "task": "FILE_test_invoice.txt_20260329044847.md",
-            "is_email": false,
-            "is_whatsapp": false
-        },
-        "approval_status": "auto",
-        "approved_by": "system",
-        "result": "success"
-    },
-    {
-        "timestamp": "2026-03-29T04:48:49.833804",
-        "action_type": "claim_task",
-        "actor": "ai_employee",
-        "target": "FILE_test_task_002.txt_20260329044848.md",
-        "parameters": {
-            "task": "FILE_test_task_002.txt_20260329044848.md",
-            "is_email": false,
->>>>>>> c4b9f548e2ba32d9f2d04bcc2348ddd1aaf515b1
-            "is_whatsapp": false
-        },
-        "approval_status": "auto",
-        "approved_by": "system",
+        "approval_status": "approved",
+        "approved_by": "human",
         "result": "success"
     }
-]{"timestamp": "2026-03-29T04:50:16.560663+00:00", "action_type": "email_draft_created", "actor": "cloud", "target": "APPROVE_REPLY_EMAIL_19d37e89_20260329045016.md", "parameters": {"msg_id": "19d37e89647e45cd", "recipient": "Muhammad Ismail <musafirbaltistani786@gmail.com>"}, "approval_status": "auto", "approved_by": "system", "result": "success"}
-<<<<<<< HEAD
-{"timestamp": "2026-03-29T04:51:07.081670+00:00", "action_type": "email_draft_created", "actor": "cloud", "target": "APPROVE_REPLY_EMAIL_19c8f08f_20260329045107.md", "parameters": {"msg_id": "19c8f08f26638a74", "recipient": "Sammy-spk <notifications@github.com>"}, "approval_status": "auto", "approved_by": "system", "result": "success"}
-=======
-{"timestamp": "2026-03-29T04:50:49.361190+00:00", "action_type": "email_draft_created", "actor": "cloud", "target": "APPROVE_REPLY_EMAIL_19c8f08f_20260329045049.md", "parameters": {"msg_id": "19c8f08f26638a74", "recipient": "Sammy-spk <notifications@github.com>"}, "approval_status": "auto", "approved_by": "system", "result": "success"}
-{"timestamp": "2026-03-29T04:50:51.408147+00:00", "action_type": "email_draft_created", "actor": "cloud", "target": "APPROVE_REPLY_EMAIL_19c93535_20260329045051.md", "parameters": {"msg_id": "19c935352ddbb3bd", "recipient": "Ross <notifications@github.com>"}, "approval_status": "auto", "approved_by": "system", "result": "success"}
-{"timestamp": "2026-03-29T04:50:53.791435+00:00", "action_type": "email_draft_created", "actor": "cloud", "target": "APPROVE_REPLY_EMAIL_19c9354f_20260329045053.md", "parameters": {"msg_id": "19c9354f61b0102d", "recipient": "Shubham Saboo <notifications@github.com>"}, "approval_status": "auto", "approved_by": "system", "result": "success"}
-{"timestamp": "2026-03-29T04:50:55.757790+00:00", "action_type": "email_draft_created", "actor": "cloud", "target": "APPROVE_REPLY_EMAIL_19c939c6_20260329045055.md", "parameters": {"msg_id": "19c939c6063c167f", "recipient": "Sammy-spk <notifications@github.com>"}, "approval_status": "auto", "approved_by": "system", "result": "success"}
-{"timestamp": "2026-03-29T04:50:58.207694+00:00", "action_type": "email_draft_created", "actor": "cloud", "target": "APPROVE_REPLY_EMAIL_19d37d7f_20260329045058.md", "parameters": {"msg_id": "19d37d7f8f12bdce", "recipient": "Muhammad Ismail <musafirbaltistani786@gmail.com>"}, "approval_status": "auto", "approved_by": "system", "result": "success"}
-{"timestamp": "2026-03-29T04:50:59.194032+00:00", "action_type": "odoo_draft_created", "actor": "cloud", "target": "APPROVE_POST_INVOICE_INV-20260329045016_20260329045059.md", "parameters": {"invoice_id": 26, "amount": 1200.0, "ref": "INV-20260329045016"}, "approval_status": "auto", "approved_by": "system", "result": "success"}
-<<<<<<< HEAD
->>>>>>> a6f8ec3660a6375237e53782adcf4c2697bd3553
-=======
-{"timestamp": "2026-03-29T04:51:30.144664+00:00", "action_type": "odoo_draft_created", "actor": "cloud", "target": "APPROVE_POST_INVOICE_INV-20260329045058_20260329045130.md", "parameters": {"invoice_id": 27, "amount": 600.0, "ref": "INV-20260329045058"}, "approval_status": "auto", "approved_by": "system", "result": "success"}
->>>>>>> 20403993cd6b4fc91cc53292bba843e67d01bfd9
+]
