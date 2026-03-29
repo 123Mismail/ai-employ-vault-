@@ -1,6 +1,6 @@
 ---
-approved_at: ''
-approved_by: ''
+approved_at: '2026-03-29T04:21:08.669712+00:00'
+approved_by: human
 claimed_by: linkedin-scheduler
 created_at: '2026-03-29T04:04:40.588597+00:00'
 expires: '2026-03-30T04:04:40.588597+00:00'
@@ -19,7 +19,7 @@ post_content: "Are we on the brink of an era where 24/7 productivity is not just
   \ your business.\n\n#AIAgents #DigitalEmployee #AIAutomation #FutureOfWork #AIProductivity\
   \ #AIEngineering #BuildInPublic"
 scheduled_for: 2026-03-29 09:04
-status: pending_approval
+status: approved
 target: linkedin
 type: linkedin_post
 ---
